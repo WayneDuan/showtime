@@ -11,7 +11,7 @@
 | getWebsiteInfo         | 返回网站基本信息（名称、icon等）        | 必须               |
 | getCategories          | 返回分类列表                           | 必须（有分类时）   |
 | getSortOptions         | 返回排序选项                           | 可选               |
-| getVideoList           | 获取首页/推荐视频列表                   | 建议实现           |
+| getVideoList           | 获取首页/推荐视频列表                   | 必须           |
 | getVideosByCategory    | 获取指定分类下视频列表                  | 建议实现           |
 | getVideoDetail         | 获取视频详情及分辨率                    | 必须               |
 | getPlayUrl             | 解析真实播放地址（如需二次解析时实现）   | 可选               |
@@ -256,8 +256,6 @@ async function search(keyword, page) {
   - 其它方法建议实现，能提升体验。
 - **getPlayUrl 必须实现吗？**
   - 仅当播放地址需二次解析时实现，否则可省略。
-- **Emby.* 系列要实现吗？**
-  - 仅 Emby/Jellyfin/本地媒体库类型脚本实现。
 
 ---
 
