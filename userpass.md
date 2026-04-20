@@ -277,7 +277,6 @@
 
 - 查看当前会员状态（有效期、套餐类型）
 - 购买或升级会员
-- 兑换激活码
 
 ### 播放设置
 
@@ -330,14 +329,6 @@
 - **月度会员**：按月自动续费
 - **年度会员**：按年自动续费（推荐，性价比更高）
 - **永久会员**：一次买断，长期使用
-
-### 激活码兑换
-
-1. 进入「**设置 → 会员**」
-2. 点击「兑换激活码」
-3. 输入激活码，点击确认
-
-激活码绑定设备，兑换后可在当前设备上永久使用（有效期以激活码为准）。
 
 ---
 
@@ -661,7 +652,6 @@ The **Settings** tab is organized into the following sections:
 
 - View current membership status (expiry date, plan type)
 - Purchase or upgrade membership
-- Redeem an activation code
 
 ### Playback Settings
 
@@ -714,14 +704,6 @@ Supports **English** and **简体中文 (Simplified Chinese)**. Takes effect imm
 - **Monthly** — recurring monthly subscription
 - **Yearly** — recurring yearly subscription (recommended, better value)
 - **Lifetime** — one-time purchase, permanent access
-
-### Redeeming an Activation Code
-
-1. Go to **Settings → Membership**
-2. Tap "Redeem Activation Code"
-3. Enter the code and confirm
-
-Activation codes are bound to the device. Once redeemed, access is permanent on the current device (subject to the code's validity period).
 
 ---
 
