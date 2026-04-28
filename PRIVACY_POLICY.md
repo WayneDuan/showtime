@@ -38,7 +38,7 @@
 
 ## 6. 联系我们
 
-如您对本政策有疑问，可通过应用内提供的联系方式与我们联系。
+如您对本政策有疑问，可通过应用内提供的联系方式与我们联系或发送邮箱到：wanyneduan30@gmail.com
 
 ---
 
@@ -82,4 +82,4 @@ We may update this Policy due to product updates or legal requirements. Updated 
 
 ## 6. Contact Us
 
-If you have questions about this Policy, please contact us through the contact method provided in the App.
+If you have questions about this Policy, please contact us through the contact method provided in the App or send email to wanyneduan30@gmail.com
