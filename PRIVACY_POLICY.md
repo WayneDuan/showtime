@@ -2,7 +2,7 @@
 
 **生效日期：2026年4月20日**
 
-映盒（NowShowTime）（以下简称“本应用”）高度重视您的隐私。本政策说明我们如何处理您的信息。
+“本应用”高度重视您的隐私。本政策说明我们如何处理您的信息。
 
 ## 1. 数据收集与使用
 
@@ -46,7 +46,7 @@
 
 **Effective Date: April 20, 2026**
 
-YingBox（NowShowTime） (“the App”) values your privacy. This Policy explains how we handle your information.
+(“the App”) values your privacy. This Policy explains how we handle your information.
 
 ## 1. Data Collection and Use
 
